@@ -1,0 +1,4 @@
+name: BlockExplosion
+version: '${project.version}'
+main: org.maseunknown.plugins.blockexplosion.BlockExplosion
+api-version: '1.20'
