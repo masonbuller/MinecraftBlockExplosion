@@ -14,24 +14,19 @@
 </a></p>
 
 <br>
+
 <h2>Languages Used</h2>
 
 - <b>Java</b>
-
-<br>
 
 <h2>Frameworks Used</h2>
 
 - <b>Maven</b>
 
-<br>
-
 <h2>Plugins Used</h2>
 
 - <b>Minecraft Development</b>
 - <b>Spigot</b>
-
-<br>
 
 <h2>Envoirnments Used</h2>
 
