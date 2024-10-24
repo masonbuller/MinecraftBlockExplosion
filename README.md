@@ -2,10 +2,12 @@
 <h2>Description</h2>
 <p>Project consists of a Java based plugin for Minecraft that makes specific blocks explode when stepped on by the player.</p>
 
+<p>This plugin starts upon startup of the world. Anytime player movement is detected on grass, stone, netherrack, or end stone, there is an explosion and the player dies. The purpose of this plugin is for the player to attempt to completely beat the game while working around these additional obstacles.</p>
+
 <br>
 
 <h2>YouTube Overview</h2>
-<p>Minecraft Block Explosion Plugin Video</p>
+<p>This video displays the plugin in action and how it functions. You can see that when the player steps on one of the four blocks mentioned above, they are exploded.</p>
 <p>
   <a href="https://www.youtube.com/watch?v=mhDO22YKhak">
   <img src="https://imgur.com/aKXOsfs.png" height=80% width= 80% alt="Minecraft Block Explosion Plugin Video Thumbnail">
